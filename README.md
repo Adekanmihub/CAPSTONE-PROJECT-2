@@ -38,13 +38,20 @@ Based on the data that was given for the project , some colums were missing subs
 With the use of pivot table , i was able to get the subscription pattern and most popular sub type
 I explored power bi tools build and visualize a dashboard that shows  key customer segments,  cancellations, and subscription trends. Include slicers for interactive analysis.
 
+### DATA VISUALIZATION
+This will be concluded on or before nov 9, 2024
+
+### DATA INSIGHT 
+
+### CONCLUSION
+
+
 ### Data Analysis
+
  Formula used are
  ```EXCEL
    =(F2-E2)
   =AVERAGE(I:I)```
    PIVOT TABLE
-
-### DATA VISUALIZATION
-
+ 
 
