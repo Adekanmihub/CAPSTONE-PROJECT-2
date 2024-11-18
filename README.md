@@ -39,11 +39,14 @@ With the use of pivot table , i was able to get the subscription pattern and mos
 I explored power bi tools build and visualize a dashboard that shows  key customer segments,  cancellations, and subscription trends. Include slicers for interactive analysis.
 
 ### DATA VISUALIZATION
-This will be concluded on or before nov 9, 2024
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/2f3ab8f7-18b4-48ee-9aa8-59128120c230">
 
-### DATA INSIGHT 
 
-### CONCLUSION
+### DATA INSIGHT AND CONCLUSION
+
+Based on the dashbaord creation, focus is on the customer segment, cancelation and subscription trend
+With the use of slicer the dashboard is interactive as we are able to see where there is a lag on te subcription type and region to focus on.
+This provides us insight into where we can consider expansion.
 
 
 ### Data Analysis
